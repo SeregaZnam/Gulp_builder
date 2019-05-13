@@ -1,0 +1,25 @@
+{
+  "name": "gulp-builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeregaZnam/Gulp_builder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeregaZnam/Gulp_builder/issues"
+  },
+  "homepage": "https://github.com/SeregaZnam/Gulp_builder#readme",
+  "dependencies": {
+    "gulp-sass": "^4.0.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015": "^6.24.1",
+    "gulp": "^4.0.2"
+  }
+}
